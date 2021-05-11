@@ -1,1 +1,1 @@
-Responsive searching bar created in React. Using 3rd party API 
+Responsive searching bar created in React. Using 3rd party API for images
